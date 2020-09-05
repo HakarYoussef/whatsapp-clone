@@ -1,0 +1,24 @@
+.dropdown {
+    position: absolute;
+    height: 28vh;
+    background-color: #ffffff;
+    padding: 15px;
+    margin-top: 310px;
+    margin-left: -5px;
+    box-shadow: 0px 5px 30px -10px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    transition: 100ms ease-in;
+}
+
+.dropdown>h3 {
+    padding: 10px;
+    font-size: 14px;
+    color: rgb(66, 66, 66);
+    transition: 100ms ease-in;
+}
+
+.dropdown>h3:hover {
+    background-color: #ebebeb;
+    border-radius: 30px;
+    cursor: pointer;
+}
