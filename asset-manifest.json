@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/HakarYoussef/whatsapp-clone/static/css/main.1479aada.chunk.css",
-    "main.js": "/HakarYoussef/whatsapp-clone/static/js/main.10655a09.chunk.js",
-    "main.js.map": "/HakarYoussef/whatsapp-clone/static/js/main.10655a09.chunk.js.map",
-    "runtime-main.js": "/HakarYoussef/whatsapp-clone/static/js/runtime-main.f353fd6c.js",
-    "runtime-main.js.map": "/HakarYoussef/whatsapp-clone/static/js/runtime-main.f353fd6c.js.map",
-    "static/js/2.f71ad3da.chunk.js": "/HakarYoussef/whatsapp-clone/static/js/2.f71ad3da.chunk.js",
-    "static/js/2.f71ad3da.chunk.js.map": "/HakarYoussef/whatsapp-clone/static/js/2.f71ad3da.chunk.js.map",
-    "index.html": "/HakarYoussef/whatsapp-clone/index.html",
-    "precache-manifest.aee28e5bed823f904d7d503d306bc010.js": "/HakarYoussef/whatsapp-clone/precache-manifest.aee28e5bed823f904d7d503d306bc010.js",
-    "service-worker.js": "/HakarYoussef/whatsapp-clone/service-worker.js",
-    "static/css/main.1479aada.chunk.css.map": "/HakarYoussef/whatsapp-clone/static/css/main.1479aada.chunk.css.map",
-    "static/js/2.f71ad3da.chunk.js.LICENSE.txt": "/HakarYoussef/whatsapp-clone/static/js/2.f71ad3da.chunk.js.LICENSE.txt"
+    "main.css": "/whatsapp-clone/static/css/main.1479aada.chunk.css",
+    "main.js": "/whatsapp-clone/static/js/main.f8cbfd99.chunk.js",
+    "main.js.map": "/whatsapp-clone/static/js/main.f8cbfd99.chunk.js.map",
+    "runtime-main.js": "/whatsapp-clone/static/js/runtime-main.a04c35f0.js",
+    "runtime-main.js.map": "/whatsapp-clone/static/js/runtime-main.a04c35f0.js.map",
+    "static/js/2.f71ad3da.chunk.js": "/whatsapp-clone/static/js/2.f71ad3da.chunk.js",
+    "static/js/2.f71ad3da.chunk.js.map": "/whatsapp-clone/static/js/2.f71ad3da.chunk.js.map",
+    "index.html": "/whatsapp-clone/index.html",
+    "precache-manifest.b3353c072e68a7db5fd9a893fc140ed3.js": "/whatsapp-clone/precache-manifest.b3353c072e68a7db5fd9a893fc140ed3.js",
+    "service-worker.js": "/whatsapp-clone/service-worker.js",
+    "static/css/main.1479aada.chunk.css.map": "/whatsapp-clone/static/css/main.1479aada.chunk.css.map",
+    "static/js/2.f71ad3da.chunk.js.LICENSE.txt": "/whatsapp-clone/static/js/2.f71ad3da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f353fd6c.js",
+    "static/js/runtime-main.a04c35f0.js",
     "static/js/2.f71ad3da.chunk.js",
     "static/css/main.1479aada.chunk.css",
-    "static/js/main.10655a09.chunk.js"
+    "static/js/main.f8cbfd99.chunk.js"
   ]
 }
